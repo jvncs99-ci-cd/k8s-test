@@ -8,6 +8,6 @@ metadata:
   namespace: argocd
 data:
   repositories: |
-        - url: https://github.com/jvncs99-ci-cd/metallb-system.git
+    - url: https://github.com/jvncs99-ci-cd/metallb-system.git
       type: git
    
