@@ -4,4 +4,4 @@ bases:
   - ../../base
 patchesStrategicMerge:
   - argocd-server-service.yaml
-  
+  - argocd-configmap.yaml
