@@ -4,6 +4,7 @@ bases:
   - ../../base
 resources:
   - app-metallb-system.yaml
+  - app-argocd.yaml
 patchesStrategicMerge:
   - argocd-server-service.yaml
   - argocd-configmap.yaml
