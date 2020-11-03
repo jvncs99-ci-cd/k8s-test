@@ -10,4 +10,6 @@ data:
   repositories: |
     - url: https://github.com/jvncs99-ci-cd/metallb-system.git
       type: git
+    - url: https://github.com/jvncs99-ci-cd/spring-boot-org-service-deployment.git
+      type: git
     
